@@ -4,11 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-numpy = "*"
 pandas = "*"
 matplotlib = "*"
-jupyter = "*"
+seaborn = "*"
 sklearn = "*"
+jupyter = "*"
 tensorflow = "*"
 
 [dev-packages]
