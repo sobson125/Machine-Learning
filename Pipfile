@@ -10,6 +10,7 @@ seaborn = "*"
 sklearn = "*"
 jupyter = "*"
 tensorflow = "*"
+tensorflow-datasets = "*"
 
 [dev-packages]
 
